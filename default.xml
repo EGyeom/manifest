@@ -2,7 +2,7 @@
 <manifest>
   <remote name="origin" fetch="git@github.com:EGyeom/manifest.git />
 
-  <default revision="main" remote="origin" sync-j="4" />
+  <default revision="4197f5b08eb31844c256c4f2460cc59e42990f9f" remote="origin" sync-j="4" />
   <project remote="origin" name="BlogMaker" path="blog" />
   <project remote="origin" name="ProblemSolving" path="ps" />
 </manifest>
