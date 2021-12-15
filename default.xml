@@ -8,3 +8,12 @@
   <project remote="origin" name="BlogMaker" path="blog" />
   <project remote="origin" name="ProblemSolving" path="ps" />
 </manifest>
+
+
+<!--~/bin/repo init -u ssh://git@github.com/egyeom/manifest.git -b main
+ 여기서 main은 manifest main branch
+ --> 
+
+<!--
+  ~/bin/repo sync -j4
+-->
