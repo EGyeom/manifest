@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest>
-  <remote name="origin" fetch="ssh://git@github.com/egyeom/" />
+  <remote name="origin" fetch="git@github.com:EGyeom/manifest.git />
 
   <default revision="main" remote="origin" sync-j="4" />
   <project remote="manifest" name="BlogMaker" path="blog" />
