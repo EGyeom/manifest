@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<manifest>
-  <remote name="origin" fetch="git@github.com:EGyeom/manifest.git />
 
-  <default revision="4197f5b08eb31844c256c4f2460cc59e42990f9f" remote="origin" sync-j="4" />
+<manifest>
+  <remote name="origin" fetch="ssh://git@github.com/egyeom/" />
+
+ <default revision="master" remote="origin" sync-j="4" />
+
   <project remote="origin" name="BlogMaker" path="blog" />
   <project remote="origin" name="ProblemSolving" path="ps" />
 </manifest>
