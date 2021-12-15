@@ -3,6 +3,6 @@
   <remote name="origin" fetch="git@github.com:EGyeom/manifest.git />
 
   <default revision="main" remote="origin" sync-j="4" />
-  <project remote="manifest" name="BlogMaker" path="blog" />
-  <project remote="manifest" name="ProblemSolving" path="ps" />
+  <project remote="origin" name="BlogMaker" path="blog" />
+  <project remote="origin" name="ProblemSolving" path="ps" />
 </manifest>
