@@ -7,6 +7,7 @@
 
   <project remote="origin" name="BlogMaker" path="blog" />
   <project remote="origin" name="ProblemSolving" path="ps" />
+  <project remote="origin" name="network path=network" />
 </manifest>
 
 
